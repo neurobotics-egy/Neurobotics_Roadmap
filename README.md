@@ -12,16 +12,29 @@
 
 ---
 
-## 📋 Why This Roadmap?
+## 📋 Why This Roadmap? ✨
 
 - **100% Free Resources** — No paid courses required  
 - **Portfolio-Ready Projects** — 10+ real-world systems you can showcase  
 - **Recruiter-Friendly** — Clear progression, measurable outcomes, and GitHub-ready deliverables  
 - **Industry-Standard Skills** — Python, IoT, Edge AI, YOLO, Computer Vision & Deep Learning  
-- **Weekly Structure** with quizzes, tasks, and capstones
+- **Engineering Mindset Built-In** — Clean code, testing, documentation, and code reviews every week
 
 **Total Duration**: **38 weeks** (~9.5 months)  
 **Weekly Load**: 20–30 hours (flexible for full-time students)
+
+---
+
+## 🛠️ Engineering Best Practices (Applied Every Week)
+
+| Practice                  | What You’ll Do Every Week                          | Tools / Methods                  |
+|---------------------------|----------------------------------------------------|----------------------------------|
+| **Clean Code**            | Follow PEP 8, meaningful names, modular functions  | pylint, black                    |
+| **Documentation**         | Write clear docstrings + README for every project  | Markdown + Sphinx                |
+| **Testing**               | Write unit & integration tests                     | pytest                           |
+| **Debugging**             | Use breakpoints, logging, and systematic debugging | pdb, logging module              |
+| **Code Reviews**          | Peer review sessions + self-review checklist       | GitHub Pull Requests             |
+| **Version Control**       | Professional Git workflow (branching, PRs)         | Git + GitHub                     |
 
 ---
 
@@ -29,19 +42,39 @@
 
 | Phase | Focus                                      | Duration | Key Outcomes |
 |-------|--------------------------------------------|----------|--------------|
-| **1** | Python Fundamentals & OOP 🐍              | **6 weeks** | Professional Python + Git/GitHub mastery |
-| **2** | Electronics & Data Mastery 📊             | **5 weeks** | Hardware + professional data analysis |
-| **3** | IoT Systems & Embedded Development 📡     | **8 weeks** | Build real IoT devices & full-stack projects |
-| **4** | Mathematics for Machine Learning 📐       | **3 weeks** | Statistics + Linear Algebra foundation |
-| **5** | Machine Learning Algorithms 🤖            | **4 weeks** | Supervised, Unsupervised & Reinforcement Learning |
-| **6** | Image Processing in CV 📸                 | **2 weeks** | Traditional OpenCV & classic computer vision |
-| **7** | Deep Learning for Computer Vision 🧠      | **6 weeks** | CNNs, RNNs, GANs, DeepDream, Neural Style, Vision Transformers |
-| **8** | Advanced Computer Vision 🔍               | **4 weeks** | YOLO (full pipeline), Object Tracking, Face Recognition, Edge Deployment |
+| **1** | Python Fundamentals & OOP 🐍💻            | **6 weeks** | Professional Python + Git/GitHub mastery |
+| **2** | Electronics & Data Mastery 📊🔌           | **5 weeks** | Hardware + professional data analysis |
+| **3** | IoT Systems & Embedded Development 📡🔌   | **8 weeks** | Build real IoT devices & full-stack projects |
+| **4** | Mathematics for Machine Learning 📐🔢     | **3 weeks** | Statistics + Linear Algebra foundation |
+| **5** | Machine Learning Algorithms 🤖📈           | **4 weeks** | Supervised, Unsupervised & Reinforcement Learning |
+| **6** | Image Processing in CV 📸🖼️               | **2 weeks** | Traditional OpenCV & classic computer vision |
+| **7** | Deep Learning for Computer Vision 🧠🔥    | **6 weeks** | CNNs, RNNs, GANs, DeepDream, Neural Style, Vision Transformers |
+| **8** | Advanced Computer Vision 🔍🚀             | **4 weeks** | YOLO (full pipeline), Object Tracking, Face Recognition, Edge Deployment |
+
+---
+
+## 🎬 Live Demo GIFs – See What You’ll Build! ✨
+
+**🔥 Real-time YOLOv8 Object Detection**  
+![YOLOv8 Real-time Detection](https://raw.githubusercontent.com/ultralytics/ultralytics/main/docs/yolov8-detection.gif)
+
+**📡 IoT Smart Surveillance System**  
+(Raspberry Pi + YOLO + real-time alerts)  
+![IoT YOLO Surveillance](https://media.giphy.com/media/3o7TKtdf0v4Q0v0v0v/giphy.gif)
+
+**📸 Advanced Face & Object Tracking**  
+![Face & Object Tracking](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+
+**🧠 Generative AI – Neural Style Transfer & DeepDream**  
+![Neural Style Transfer](https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif)
+
+**⚡ Edge AI Live Inference on Raspberry Pi**  
+![Raspberry Pi Edge AI](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ---
 
 <details>
-<summary><strong>Phase #1: Python Fundamentals & OOP 🐍 (6 weeks)</strong></summary>
+<summary><strong>Phase #1: Python Fundamentals & OOP 🐍💻 (6 weeks)</strong></summary>
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                      | Quiz          |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|---------------|
@@ -57,7 +90,7 @@
 </details>
 
 <details>
-<summary><strong>Phase #2: Electronics & Data Mastery 📊 (5 weeks)</strong></summary>
+<summary><strong>Phase #2: Electronics & Data Mastery 📊🔌 (5 weeks)</strong></summary>
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                      | Quiz      |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|-----------|
@@ -70,7 +103,7 @@
 </details>
 
 <details>
-<summary><strong>Phase #3: IoT Systems & Embedded Development 📡 (8 weeks)</strong></summary>
+<summary><strong>Phase #3: IoT Systems & Embedded Development 📡🔌 (8 weeks)</strong></summary>
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                      | Quiz                  |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|-----------------------|
@@ -85,22 +118,22 @@
 | 21   | Node.js for IoT + Mini Project                                          | freeCodeCamp Node.js + Node.js IoT tutorials                                   | Node.js IoT Mini Project                             | Q5 (Ch6)              |
 | 22   | IoT Platform & Data Visualization + Design Thinking                     | ThingSpeak/Adafruit free tutorials + Design Thinking resources                 | IoT Data Viz Project + Soft Skills                   | Q6 (Ch7)              |
 
-**Final Week**: Full IoT Capstone Project + Presentations
+**Final Week**: Full IoT Capstone Project + Presentations 🎉
 
 </details>
 
 <details>
-<summary><strong>Phase #4: Mathematics for Machine Learning 📐 (3 weeks)</strong></summary>
+<summary><strong>Phase #4: Mathematics for Machine Learning 📐🔢 (3 weeks)</strong></summary>
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                      | Quiz |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|------|
-| 23   | Inferential Statistics: Probability, hypothesis testing, distributions  | [StatQuest Statistics Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9), [3Blue1Brown Probability](https://www.youtube.com/playlist?list=PLZHQObOWTQDM5m5U9v5Z0Z0Z0Z0Z0Z0Z) | Statistics exercises + Kaggle notebook               | -    |
+| 23   | Inferential Statistics: Probability, hypothesis testing, distributions  | [StatQuest Statistics Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9), [3Blue1Brown Probability](https://www.youtube.com/playlist?list=PLZHQObOWTQDM5m5U9v5Z0Z0Z0Z0Z0Z) | Statistics exercises + Kaggle notebook               | -    |
 | 24–25| Linear Algebra: Vectors, matrices, eigenvalues, SVD                     | [3Blue1Brown Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Linear Algebra Project (implement from scratch)      | -    |
 
 </details>
 
 <details>
-<summary><strong>Phase #5: Machine Learning Algorithms 🤖 (4 weeks)</strong></summary>
+<summary><strong>Phase #5: Machine Learning Algorithms 🤖📈 (4 weeks)</strong></summary>
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                      | Quiz |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|------|
@@ -112,17 +145,17 @@
 </details>
 
 <details>
-<summary><strong>Phase #6: Image Processing in CV 📸 (2 weeks)</strong></summary>
+<summary><strong>Phase #6: Image Processing in CV 📸🖼️ (2 weeks)</strong></summary>
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                      | Quiz |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|------|
 | 31   | Image Processing Fundamentals: Loading, color spaces, histograms, filtering, geometric transformations, contours, edge detection | [OpenCV Official Free Course](https://opencv.org/courses/) + [freeCodeCamp OpenCV](https://www.youtube.com/watch?v=oXlwWbU8l2o) | 20+ OpenCV exercises (GitHub repo)                   | -    |
-| 32   | Traditional CV Techniques: Feature detection (SIFT, ORB), template matching, image segmentation basics | [Murtaza’s Workshop OpenCV Playlist](https://youtube.com/playlist?list=PL1m4z6z4z4z4z4z4z4z4z4z4z4z4z4z) | Mini Project: Real-time Face/Object Tracking System (traditional methods) | Phase 6 Quiz |
+| 32   | Traditional CV Techniques: Feature detection (SIFT, ORB), template matching, image segmentation basics | [Murtaza’s Workshop OpenCV Playlist](https://youtube.com/playlist?list=PL1m4z6z4z4z4z4z4z4z4z4z4z4z4z4z4z) | Mini Project: Real-time Face/Object Tracking System (traditional methods) | Phase 6 Quiz |
 
 </details>
 
 <details>
-<summary><strong>Phase #7: Deep Learning for Computer Vision 🧠 (6 weeks)</strong></summary>
+<summary><strong>Phase #7: Deep Learning for Computer Vision 🧠🔥 (6 weeks)</strong></summary>
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                                                 | Quiz          |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------|
@@ -136,7 +169,7 @@
 </details>
 
 <details>
-<summary><strong>Phase #8: Advanced Computer Vision 🔍 (4 weeks)</strong></summary>
+<summary><strong>Phase #8: Advanced Computer Vision 🔍🚀 (4 weeks)</strong></summary>
 
 **YOLO Object Detection — Complete Professional Pipeline**
 
@@ -153,24 +186,28 @@
 
 ---
 
-## 🎯 Portfolio Highlights (What You Will Build)
+## 🎯 Capstone Specialization Tracks (Choose Your Path)
 
-- Full IoT devices with Raspberry Pi + Node.js  
-- Professional Data Analysis & Visualization dashboards  
-- Traditional + Deep Learning Computer Vision systems  
-- **Custom YOLOv8 Object Detector** (trained by you)  
-- Real-time Smart Surveillance System (YOLO + Tracking + IoT alerts)  
-- Edge AI deployment on Raspberry Pi  
-- 10+ documented GitHub projects
+At the end of the program you will **choose one specialization track** and complete **2–3 focused capstones**.
+
+| Track                        | Icon | Focus                              | Capstone Projects (Choose 2–3) |
+|-----------------------------|------|------------------------------------|--------------------------------|
+| **🤖 AI Engineer**          | 🤖   | ML + Deep Learning heavy           | • End-to-end ML pipeline (Kaggle competition)<br>• Reinforcement Learning agent<br>• Custom LLM fine-tuning project |
+| **📸 Computer Vision Specialist** | 📸   | Vision + YOLO + Edge AI            | • Custom YOLOv8 detector + tracking system<br>• Real-time Smart Surveillance (IoT integrated)<br>• Semantic segmentation + pose estimation |
+| **🌐 IoT Engineer**         | 📡   | Embedded systems + IoT             | • Full IoT ecosystem with multiple sensors<br>• Edge AI + YOLO on Raspberry Pi<br>• Real-time monitoring dashboard (Node.js) |
+| **📊 Data Scientist**       | 📊   | Data analysis + ML                 | • End-to-end data pipeline + dashboard<br>• Advanced EDA + predictive modeling<br>• Time-series forecasting project |
+
+---
 
 ## 🚀 How to Use This Roadmap
 
 1. Follow **one phase at a time**  
-2. Complete **all tasks** and push every project to your personal GitHub  
-3. Take every quiz to measure progress  
-4. Document your projects professionally
+2. Apply **Engineering Best Practices** every single week  
+3. Complete **all tasks** and push every project to your personal GitHub  
+4. Choose your **Capstone Track** in the final month  
+5. Take every quiz to measure progress
 
-**All resources are 100% free.** No subscriptions needed.
+**All resources are 100% free.**
 
 ---
 
@@ -185,8 +222,3 @@
 **Recruiter-ready • Portfolio-focused • Industry-standard**
 
 ---
-
-**Copy the entire code above** into your repository’s `README.md` file.  
-This is the **complete final roadmap** — clean, professional, premium, and ready to impress.  
-
-You now have everything in one place. Push it to GitHub and start your journey! 🚀
