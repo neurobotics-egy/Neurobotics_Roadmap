@@ -1,28 +1,42 @@
-# NeuroBotics Training Roadmap 2025 🚀
+# NeuroBotics Training Roadmap 2026 🚀
 
-**Comprehensive Full-Stack Bootcamp Curriculum**  
+**From Zero to Professional**  
 **Python • Electronics • IoT • Data Science • Mathematics • Machine Learning • Computer Vision • Deep Learning**
 
-**Total Estimated Duration**: **38 weeks** (≈ 9.5 months)  
-**Study Load**: 20–30 hours/week (sessions + self-study + projects)  
-**Style**: Professional open-source format • **100% free resources only** • Weekly structure • Portfolio-ready projects • Inspired by CATReloaded
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Embedded-00BFFF?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Advanced-FF6B00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Expert-FF00FF?style=for-the-badge)
+![100% Free](https://img.shields.io/badge/Resources-100%25%20Free-00C853?style=for-the-badge)
+![38 Weeks](https://img.shields.io/badge/Duration-38%20Weeks-9C27B0?style=for-the-badge)
 
 ---
 
-## 📋 Phase Overview & Study Time
+## 📋 Why This Roadmap?
+
+- **100% Free Resources** — No paid courses required  
+- **Portfolio-Ready Projects** — 10+ real-world systems you can showcase  
+- **Recruiter-Friendly** — Clear progression, measurable outcomes, and GitHub-ready deliverables  
+- **Industry-Standard Skills** — Python, IoT, Edge AI, YOLO, Computer Vision & Deep Learning  
+- **Weekly Structure** with quizzes, tasks, and capstones
+
+**Total Duration**: **38 weeks** (~9.5 months)  
+**Weekly Load**: 20–30 hours (flexible for full-time students)
+
+---
+
+## 📊 Phase Overview & Learning Outcomes
 
 | Phase | Focus                                      | Duration | Key Outcomes |
 |-------|--------------------------------------------|----------|--------------|
-| **1** | Python Fundamentals & OOP                  | **6 weeks** | Strong Python foundation + Git/GitHub |
-| **2** | Electronics, Microcontrollers & Data Mastery | **5 weeks** | Hardware basics + professional data analysis |
-| **3** | IoT Systems & Embedded Development         | **8 weeks** | Build real IoT devices & mini-projects |
-| **4** | Mathematics for Machine Learning           | **3 weeks** | Statistics + Linear Algebra |
-| **5** | Machine Learning Algorithms                | **4 weeks** | Supervised, Unsupervised & Reinforcement Learning |
-| **6** | **Image Processing in CV**                 | **2 weeks** | Traditional Computer Vision & OpenCV |
-| **7** | **Deep Learning for Computer Vision**      | **6 weeks** | NN, CNNs, RNNs, GANs, DeepDream, Neural Style Transfer, Vision Transformers |
-| **8** | **Advanced Computer Vision**               | **4 weeks** | Object Tracking, Face Detection, **Detailed YOLO**, Segmentation & real-world projects |
-
-**Tools Used**: Jupyter Notebook, Raspberry Pi, Git/GitHub, OpenCV, TensorFlow/Keras, PyTorch, Ultralytics YOLO
+| **1** | Python Fundamentals & OOP 🐍              | **6 weeks** | Professional Python + Git/GitHub mastery |
+| **2** | Electronics & Data Mastery 📊             | **5 weeks** | Hardware + professional data analysis |
+| **3** | IoT Systems & Embedded Development 📡     | **8 weeks** | Build real IoT devices & full-stack projects |
+| **4** | Mathematics for Machine Learning 📐       | **3 weeks** | Statistics + Linear Algebra foundation |
+| **5** | Machine Learning Algorithms 🤖            | **4 weeks** | Supervised, Unsupervised & Reinforcement Learning |
+| **6** | Image Processing in CV 📸                 | **2 weeks** | Traditional OpenCV & classic computer vision |
+| **7** | Deep Learning for Computer Vision 🧠      | **6 weeks** | CNNs, RNNs, GANs, DeepDream, Neural Style, Vision Transformers |
+| **8** | Advanced Computer Vision 🔍               | **4 weeks** | YOLO (full pipeline), Object Tracking, Face Recognition, Edge Deployment |
 
 ---
 
@@ -43,7 +57,7 @@
 </details>
 
 <details>
-<summary><strong>Phase #2: Electronics & Microcontrollers + Data Mastery 📊 (5 weeks)</strong></summary>
+<summary><strong>Phase #2: Electronics & Data Mastery 📊 (5 weeks)</strong></summary>
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                      | Quiz      |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|-----------|
@@ -124,7 +138,7 @@
 <details>
 <summary><strong>Phase #8: Advanced Computer Vision 🔍 (4 weeks)</strong></summary>
 
-**YOLO Object Detection — Fully Expanded Implementation Pipeline**
+**YOLO Object Detection — Complete Professional Pipeline**
 
 | Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                                                 | Quiz          |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------|
@@ -139,34 +153,40 @@
 
 ---
 
+## 🎯 Portfolio Highlights (What You Will Build)
+
+- Full IoT devices with Raspberry Pi + Node.js  
+- Professional Data Analysis & Visualization dashboards  
+- Traditional + Deep Learning Computer Vision systems  
+- **Custom YOLOv8 Object Detector** (trained by you)  
+- Real-time Smart Surveillance System (YOLO + Tracking + IoT alerts)  
+- Edge AI deployment on Raspberry Pi  
+- 10+ documented GitHub projects
+
 ## 🚀 How to Use This Roadmap
 
-1. Follow phases **sequentially** — never skip.  
-2. Complete **all tasks** and push every project to your personal GitHub.  
-3. Take every quiz to measure progress.  
-4. Build a strong portfolio with 10+ major projects.
+1. Follow **one phase at a time**  
+2. Complete **all tasks** and push every project to your personal GitHub  
+3. Take every quiz to measure progress  
+4. Document your projects professionally
 
-**Status Legend**:  
-✅ All resources are **completely free**  
-✅ YOLO fully expanded into step-by-step professional implementation  
-✅ Projects ready for GitHub portfolio & job applications
+**All resources are 100% free.** No subscriptions needed.
 
 ---
 
 ## 📁 Resources & Community
 
 - **Main Drive Folder**: [Link](https://drive.google.com/drive/folders/16uBt6fvuHnueBUAi6Pn83UCt7ytXhqY0?usp=drive_link)  
-- **Computer Vision Hub**: OpenCV, Ultralytics YOLO, Roboflow, Hugging Face, Kaggle  
-- **Extra Practice**: Kaggle CV competitions
+- **Computer Vision Hub**: OpenCV • Ultralytics YOLO • Roboflow • Hugging Face • Kaggle  
 
 ---
 
 **Made with ❤️ for NeuroBotics Students**  
+**Recruiter-ready • Portfolio-focused • Industry-standard**
 
-**This is the complete final roadmap** — clean, professional, fully detailed, with **professional emojis**, expanded YOLO implementation, and ready to copy into your GitHub `README.md`.
+---
 
-**Just copy the entire code above** and paste it into your repository.  
+**Copy the entire code above** into your repository’s `README.md` file.  
+This is the **complete final roadmap** — clean, professional, premium, and ready to impress.  
 
-You now have a **world-class, professional roadmap**!  
-
-Any last changes? Let me know! 🚀
+You now have everything in one place. Push it to GitHub and start your journey! 🚀
