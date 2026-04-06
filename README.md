@@ -76,16 +76,16 @@
 <details>
 <summary><strong>Phase #1: Python Fundamentals & OOP 🐍💻 (6 weeks)</strong></summary>
 
-| Week | Content                                                                 | Free Resources                                                                 | Tasks / Project                                      | Quiz          |
+| Week | Content | Free Resources | Tasks / Project | Quiz |
 |------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------|---------------|
-| 1    | Python Basics: Variables, data types, operators, control flow, functions, error handling | [freeCodeCamp Python Full Course](https://www.youtube.com/watch?v=rfscVS0vtbw), [Osama Elzero – Python Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) | Complete 50 easy problems on HackerRank              | Phase 1 Quiz  |
-| 2    | Advanced Python: File I/O, dictionaries, list comprehensions, lambda, modules, regex | [freeCodeCamp Python (Part 2)](https://www.youtube.com/watch?v=rfscVS0vtbw) + [Python Official Tutorial](https://docs.python.org/3/tutorial/) | Build a CLI data processor tool                      | -             |
-| 3    | Data Structures & Libraries Preview: Collections, iterators, basic NumPy/Pandas | [Corey Schafer Python Playlist](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) | Mini Project: File-based inventory system            | -             |
-| 4    | OOP Part 1: Classes, objects, inheritance, polymorphism                 | [Codezilla OOP Arabic](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) + [freeCodeCamp OOP](https://www.youtube.com/watch?v=JeznW4pH4cA) | Refactor previous project into OOP                   | -             |
-| 5    | OOP Part 2: Encapsulation, abstraction, magic methods, exceptions       | Same as Week 4                                                                 | Capstone: Full OOP command-line application          | -             |
-| 6    | Version Control: Git & GitHub (branching, PRs, collaboration)          | [Git & GitHub – freeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk)     | Push all projects to GitHub + collaboration task     | -             |
+| 1 | Python Basics: Variables, data types, operators, control flow, functions, error handling | [freeCodeCamp Python Full Course](https://www.youtube.com/watch?v=rfscVS0vtbw), [Osama Elzero – Python Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) | Complete 50 easy problems on HackerRank<br>**Assignment 1** → [Open Assignment 1](https://drive.google.com/file/d/1wbfuye8xKwePdYVbPNcSQTREFw4UhIfI/view?usp=sharing) | - |
+| 2 | Advanced Python: File I/O, dictionaries, list comprehensions, lambda, modules, regex | [freeCodeCamp Python (Part 2)](https://www.youtube.com/watch?v=rfscVS0vtbw) + [Python Official Tutorial](https://docs.python.org/3/tutorial/) | Build a CLI data processor tool<br>**Assignment 2** → [Open Assignment 2](https://drive.google.com/file/d/1nCkvPVy03o7xzXn-fzgRVaKtHeJMaCdk/view?usp=drive_link) | - |
+| 3 | Data Structures & Libraries Preview: Collections, iterators, basic NumPy/Pandas | [Corey Schafer Python Playlist](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) | Mini Project: File-based inventory system<br>**Assignment 3** → [Open Assignment 3](https://drive.google.com/file/d/1ZjMWnMZWjetEtpwlHIRxnqqqjGXM9C0n/view?usp=drive_link) | - |
+| 4 | OOP Part 1: Classes, objects, inheritance, polymorphism | [Codezilla OOP Arabic](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) + [freeCodeCamp OOP](https://www.youtube.com/watch?v=JeznW4pH4cA) | Refactor previous project into OOP | - |
+| 5 | OOP Part 2: Encapsulation, abstraction, magic methods, exceptions | Same as Week 4 | Capstone: Full OOP command-line application | - |
+| 6 | Version Control: Git & GitHub (branching, PRs, collaboration) | [Git & GitHub – freeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk) | Push all projects to GitHub + collaboration task | **Python Phase Project** → [Open Project Folder](https://drive.google.com/drive/folders/1eQqX5YGN4CpEwoalTinmzb4bpEShDzQ0?usp=sharing) |
 
-**Drive Folder**: [Link](https://drive.google.com/drive/folders/16uBt6fvuHnueBUAi6Pn83UCt7ytXhqY0)
+**All Python Assignments Folder**: [Open Folder](https://drive.google.com/drive/folders/12Oc1gxEjWRQbTeD-TAUHY9eZvguFn-f8)
 
 </details>
 
